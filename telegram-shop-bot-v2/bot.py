@@ -166,8 +166,8 @@ async def reply_to_message(
         "how much po",
         "pa avail po",
         "pl",
-        "avail"
-        "pa avail"
+        "avail",
+        "pa avail",
     ]
 
     # -----------------------------------------------------
